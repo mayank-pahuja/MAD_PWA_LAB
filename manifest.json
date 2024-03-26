@@ -1,0 +1,22 @@
+{
+    "name": "Tourly",
+    "short_name": "Traveling",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3367D6",
+    "description": "Travel for all Destinations with our Tourly app.",
+    "icons": [
+      {
+        "src": "readme-images/desktop.png",
+        "sizes": "1296x736",
+        "type": "image/png"
+      },
+      {
+        "src": "readme-images/project-logo.png",
+        "sizes": "217x76",
+        "type": "image/png"
+      }
+    ]
+}
+  
